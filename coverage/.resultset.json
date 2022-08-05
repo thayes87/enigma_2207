@@ -1,0 +1,15 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/thomashayes/turing/m1/projects/enigma/lib/enigma.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1659658983
+  }
+}
